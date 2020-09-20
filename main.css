@@ -1,0 +1,41 @@
+* {
+  background-color: #f5f5f5;
+}
+
+div * {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.title {
+  margin-top: 35px;
+}
+
+h1 {
+  font-family: andale mono;
+  margin-bottom: 3px;
+  opacity: .9;
+}
+
+.main-text {
+  font-family: andale mono;
+  margin-top: 0;
+  opacity: .9;
+}
+
+
+#photos {
+  margin-left: 3px;
+  display: flex;
+  width: 100%;
+}
+
+#control-room {
+  width: 78vw;
+  margin-right: 10%;
+  align-self: flex-start;
+}
+
+#email {
+  margin-bottom: 50px;
+}
