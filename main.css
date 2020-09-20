@@ -12,13 +12,13 @@ div * {
 }
 
 h1 {
-  font-family: monospace;
+  font-family: andale mono;
   margin-bottom: 3px;
   opacity: .9;
 }
 
 .main-text {
-  font-family: monospace;
+  font-family: andale mono;
   margin-top: 0;
   opacity: .9;
 }
