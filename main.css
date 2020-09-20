@@ -12,13 +12,13 @@ div * {
 }
 
 h1 {
-  font-family: overpass mono;
+  font-family: Overpass Mono;
   margin-bottom: 3px;
   opacity: .9;
 }
 
 .main-text {
-  font-family: overpass mono;
+  font-family: Overpass Mono;
   margin-top: 0;
   opacity: .9;
 }
