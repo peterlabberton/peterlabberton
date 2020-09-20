@@ -12,13 +12,13 @@ div * {
 }
 
 h1 {
-  font-family: courier new;
+  font-family: monospace;
   margin-bottom: 3px;
   opacity: .9;
 }
 
 .main-text {
-  font-family: courier new;
+  font-family: monospace;
   margin-top: 0;
   opacity: .9;
 }
