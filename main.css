@@ -23,10 +23,19 @@ h1 {
   opacity: .9;
 }
 
-#photos {
+#panorama {
   margin-left: 0px;
   display: flex;
   width: 100%;
+}
+
+.panorama {
+  height: 400px;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  img {
+    height: 100%
+  }
 }
 
 #control-room {
